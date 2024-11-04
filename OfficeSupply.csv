@@ -1,0 +1,701 @@
+Segment,State,Product,Discount Band,UnitsSold,ManufacturingPrice,SalePrice,Date
+Government, Lagos State , A4 Paper , None ,1618.5,3,20,01/01/2014
+Government, Osun State , A4 Paper , None ,1321,3,20,01/01/2014
+Midmarket, Ogun State , A4 Paper , None ,2178,3,15,01/06/2014
+Midmarket, Enugu state, A4 Paper , None ,888,3,15,01/06/2014
+Midmarket, Ondo State , A4 Paper , None ,2470,3,15,01/06/2014
+Government, Osun State , A4 Paper , None ,1513,3,350,01/12/2014
+Midmarket, Osun State , Pencil , None ,921,5,15,01/03/2014
+Channel Partners, Enugu state, Pencil , None ,2518,5,12,01/06/2014
+Government, Ogun State , Pencil , None ,1899,5,20,01/06/2014
+Channel Partners, Osun State , Pencil , None ,1545,5,12,01/06/2014
+Midmarket, Ondo State , Pencil , None ,2470,5,15,01/06/2014
+Enterprise, Lagos State , Pencil , None ,2665.5,5,125,01/07/2014
+Small Business, Ondo State , Pencil , None ,958,5,300,01/08/2014
+Government, Enugu state, Pencil , None ,2146,5,7,01/09/2014
+Enterprise, Lagos State , Pencil , None ,345,5,125,01/10/2013
+Midmarket, Oyo State , Pencil , None ,615,5,15,01/12/2014
+Government, Lagos State , Biro , None ,292,10,20,01/02/2014
+Midmarket, Ondo State , Biro , None ,974,10,15,01/02/2014
+Channel Partners, Lagos State , Biro , None ,2518,10,12,01/06/2014
+Government, Osun State , Biro , None ,1006,10,350,01/06/2014
+Channel Partners, Osun State , Biro , None ,367,10,12,01/07/2014
+Government, Ondo State , Biro , None ,883,10,7,01/08/2014
+Midmarket, Ogun State , Biro , None ,549,10,15,01/09/2013
+Small Business, Ondo State , Biro , None ,788,10,300,01/09/2013
+Midmarket, Ondo State , Biro , None ,2472,10,15,01/09/2014
+Government, Oyo State , Biro , None ,1143,10,7,01/10/2014
+Government, Lagos State , Biro , None ,1725,10,350,01/11/2013
+Channel Partners, Oyo State , Biro , None ,912,10,12,01/11/2013
+Midmarket, Enugu state, Biro , None ,2152,10,15,01/12/2013
+Government, Lagos State , Biro , None ,1817,10,20,01/12/2014
+Government, Osun State , Biro , None ,1513,10,350,01/12/2014
+Government, Enugu state, Markers , None ,1493,120,7,01/01/2014
+Enterprise, Ogun State , Markers , None ,1804,120,125,01/02/2014
+Channel Partners, Osun State , Markers , None ,2161,120,12,01/03/2014
+Government, Enugu state, Markers , None ,1006,120,350,01/06/2014
+Channel Partners, Osun State , Markers , None ,1545,120,12,01/06/2014
+Enterprise, Oyo State , Markers , None ,2821,120,125,01/08/2014
+Enterprise, Lagos State , Markers , None ,345,120,125,01/10/2013
+Small Business, Lagos State , Notepad , None ,2001,250,300,01/02/2014
+Channel Partners, Enugu state, Notepad , None ,2838,250,12,01/04/2014
+Midmarket, Ogun State , Notepad , None ,2178,250,15,01/06/2014
+Midmarket, Osun State , Notepad , None ,888,250,15,01/06/2014
+Government, Enugu state, Notepad , None ,1527,250,350,01/09/2013
+Small Business, Ogun State , Notepad , None ,2151,250,300,01/09/2014
+Government, Lagos State , Notepad , None ,1817,250,20,01/12/2014
+Government, Enugu state, Stapler , None ,2750,260,350,01/02/2014
+Channel Partners, Oyo State , Stapler , None ,1953,260,12,01/04/2014
+Enterprise, Osun State , Stapler , None ,4219.5,260,125,01/04/2014
+Government, Enugu state, Stapler , None ,1899,260,20,01/06/2014
+Government, Osun State , Stapler , None ,1686,260,7,01/07/2014
+Channel Partners, Enugu state, Stapler , None ,2141,260,12,01/08/2014
+Government, Oyo State , Stapler , None ,1143,260,7,01/10/2014
+Midmarket, Oyo State , Stapler , None ,615,260,15,01/12/2014
+Government, Ogun State , Biro , Low ,3945,10,7,01/01/2014
+Midmarket, Enugu state, Biro , Low ,2296,10,15,01/02/2014
+Government, Ogun State , Biro , Low ,1030,10,7,01/05/2014
+Government, Ogun State , Markers , Low ,639,120,7,01/11/2014
+Government, Lagos State , Notepad , Low ,1326,250,7,01/03/2014
+Channel Partners, Enugu state, A4 Paper , Low ,1858,3,12,01/02/2014
+Government, Ondo State , A4 Paper , Low ,1210,3,350,01/03/2014
+Government, Oyo State , A4 Paper , Low ,2529,3,7,01/07/2014
+Channel Partners, Enugu state, A4 Paper , Low ,1445,3,12,01/09/2014
+Enterprise, Oyo State , A4 Paper , Low ,330,3,125,01/09/2013
+Channel Partners, Ogun State , A4 Paper , Low ,2671,3,12,01/09/2014
+Channel Partners, Enugu state, A4 Paper , Low ,766,3,12,01/10/2013
+Small Business, Ondo State , A4 Paper , Low ,494,3,300,01/10/2013
+Government, Enugu state, A4 Paper , Low ,1397,3,350,01/10/2014
+Government, Ogun State , A4 Paper , Low ,2155,3,350,01/12/2014
+Midmarket, Ondo State , Pencil , Low ,2214,5,15,01/03/2014
+Small Business, Oyo State , Pencil , Low ,2301,5,300,01/04/2014
+Government, Enugu state, Pencil , Low ,1375.5,5,20,01/07/2014
+Government, Lagos State , Pencil , Low ,1830,5,7,01/08/2014
+Small Business, Enugu state, Pencil , Low ,2498,5,300,01/09/2013
+Enterprise, Oyo State , Pencil , Low ,663,5,125,01/10/2013
+Midmarket, Enugu state, Biro , Low ,1514,10,15,01/02/2014
+Government, Oyo State , Biro , Low ,4492.5,10,7,01/04/2014
+Enterprise, Oyo State , Biro , Low ,727,10,125,01/06/2014
+Enterprise, Ogun State , Biro , Low ,787,10,125,01/06/2014
+Enterprise, Enugu state, Biro , Low ,1823,10,125,01/07/2014
+Midmarket, Osun State , Biro , Low ,747,10,15,01/09/2014
+Channel Partners, Enugu state, Biro , Low ,766,10,12,01/10/2013
+Small Business, Oyo State , Biro , Low ,2905,10,300,01/11/2014
+Government, Ogun State , Biro , Low ,2155,10,350,01/12/2014
+Government, Enugu state, Markers , Low ,3864,120,20,01/04/2014
+Government, Ondo State , Markers , Low ,362,120,7,01/05/2014
+Enterprise, Lagos State , Markers , Low ,923,120,125,01/08/2014
+Enterprise, Enugu state, Markers , Low ,663,120,125,01/10/2013
+Government, Lagos State , Markers , Low ,2092,120,7,01/11/2013
+Government, Osun State , Notepad , Low ,263,250,7,01/03/2014
+Government, Enugu state, Notepad , Low ,943.5,250,350,01/04/2014
+Enterprise, Oyo State , Notepad , Low ,727,250,125,01/06/2014
+Enterprise, Enugu state, Notepad , Low ,787,250,125,01/06/2014
+Small Business, Osun State , Notepad , Low ,986,250,300,01/09/2014
+Small Business, Ondo State , Notepad , Low ,494,250,300,01/10/2013
+Government, Enugu state, Notepad , Low ,1397,250,350,01/10/2014
+Enterprise, Ogun State , Notepad , Low ,1744,250,125,01/11/2014
+Channel Partners, Oyo State , Stapler , Low ,1989,260,12,01/09/2013
+Midmarket, Ogun State , Stapler , Low ,321,260,15,01/11/2013
+Enterprise, Enugu state, A4 Paper , Low ,742.5,3,125,01/04/2014
+Channel Partners, Lagos State , A4 Paper , Low ,1295,3,12,01/10/2014
+Small Business, Osun State , A4 Paper , Low ,214,3,300,01/10/2013
+Government, Enugu state, A4 Paper , Low ,2145,3,7,01/11/2013
+Government, Lagos State , A4 Paper , Low ,2852,3,350,01/12/2014
+Channel Partners, Enugu state, Pencil , Low ,1142,5,12,01/06/2014
+Government, Oyo State , Pencil , Low ,1566,5,20,01/10/2014
+Channel Partners, Enugu state, Pencil , Low ,690,5,12,01/11/2014
+Enterprise, Ondo State , Pencil , Low ,1660,5,125,01/11/2013
+Midmarket, Lagos State , Biro , Low ,2363,10,15,01/02/2014
+Small Business, Enugu state, Biro , Low ,918,10,300,01/05/2014
+Small Business, Osun State , Biro , Low ,1728,10,300,01/05/2014
+Channel Partners, Oyo State , Biro , Low ,1142,10,12,01/06/2014
+Enterprise, Enugu state, Biro , Low ,662,10,125,01/06/2014
+Channel Partners, Lagos State , Biro , Low ,1295,10,12,01/10/2014
+Enterprise, Enugu state, Biro , Low ,809,10,125,01/10/2013
+Enterprise, Imo State , Biro , Low ,2145,10,125,01/10/2013
+Channel Partners, Ogun State , Biro , Low ,1785,10,12,01/11/2013
+Small Business, Lagos State , Biro , Low ,1916,10,300,01/12/2014
+Government, Imo State , Biro , Low ,2852,10,350,01/12/2014
+Enterprise, Lagos State , Biro , Low ,2729,10,125,01/12/2014
+Midmarket, Oyo State , Biro , Low ,1925,10,15,01/12/2013
+Government, Imo State , Biro , Low ,2013,10,7,01/12/2013
+Channel Partners, Ogun State , Biro , Low ,1055,10,12,01/12/2014
+Channel Partners, Enugu state, Biro , Low ,1084,10,12,01/12/2014
+Government, Oyo State , Markers , Low ,1566,120,20,01/10/2014
+Government, Osun State , Markers , Low ,2966,120,350,01/10/2013
+Government, Enugu state, Markers , Low ,2877,120,350,01/10/2014
+Enterprise, Osun State , Markers , Low ,809,120,125,01/10/2013
+Enterprise, Imo State , Markers , Low ,2145,120,125,01/10/2013
+Channel Partners, Ogun State , Markers , Low ,1055,120,12,01/12/2014
+Government, Enugu state, Markers , Low ,544,120,20,01/12/2013
+Channel Partners, Imo State , Markers , Low ,1084,120,12,01/12/2014
+Enterprise, Ondo State , Notepad , Low ,662,250,125,01/06/2014
+Small Business, Enugu state, Notepad , Low ,214,250,300,01/10/2013
+Government, Osun State , Notepad , Low ,2877,250,350,01/10/2014
+Enterprise, Lagos State , Notepad , Low ,2729,250,125,01/12/2014
+Government, Oyo State , Notepad , Low ,266,250,350,01/12/2013
+Government, Enugu state, Notepad , Low ,1940,250,350,01/12/2013
+Small Business, Osun State , Stapler , Low ,259,260,300,01/03/2014
+Small Business, Imo State , Stapler , Low ,1101,260,300,01/03/2014
+Enterprise, Osun State , Stapler , Low ,2276,260,125,01/05/2014
+Government, Imo State , Stapler , Low ,2966,260,350,01/10/2013
+Government, Oyo State , Stapler , Low ,1236,260,20,01/11/2014
+Government, Ogun State , Stapler , Low ,941,260,20,01/11/2014
+Small Business, Enugu state, Stapler , Low ,1916,260,300,01/12/2014
+Enterprise, Ogun State , A4 Paper , Low ,4243.5,3,125,01/04/2014
+Government, Imo State , A4 Paper , Low ,2580,3,20,01/04/2014
+Small Business, Osun State , A4 Paper , Low ,689,3,300,01/06/2014
+Channel Partners, Oyo State , A4 Paper , Low ,1947,3,12,01/09/2014
+Channel Partners, Lagos State , A4 Paper , Low ,908,3,12,01/12/2013
+Government, Imo State , Pencil , Low ,1958,5,7,01/02/2014
+Channel Partners, Ogun State , Pencil , Low ,1901,5,12,01/06/2014
+Government, Enugu state, Pencil , Low ,544,5,7,01/09/2014
+Government, Osun State , Pencil , Low ,1797,5,350,01/09/2013
+Enterprise, Imo State , Pencil , Low ,1287,5,125,01/12/2014
+Enterprise, Osun State , Pencil , Low ,1706,5,125,01/12/2014
+Small Business, Enugu state, Biro , Low ,2434.5,10,300,01/01/2014
+Enterprise, Lagos State , Biro , Low ,1774,10,125,01/03/2014
+Channel Partners, Ogun State , Biro , Low ,1901,10,12,01/06/2014
+Small Business, Osun State , Biro , Low ,689,10,300,01/06/2014
+Enterprise, Enugu state, Biro , Low ,1570,10,125,01/06/2014
+Channel Partners, Oyo State , Biro , Low ,1369.5,10,12,01/07/2014
+Enterprise, Enugu state, Biro , Low ,2009,10,125,01/10/2014
+Midmarket, Imo State , Biro , Low ,1945,10,15,01/10/2013
+Enterprise, Enugu state, Biro , Low ,1287,10,125,01/12/2014
+Enterprise, Osun State , Biro , Low ,1706,10,125,01/12/2014
+Enterprise, Imo State , Markers , Low ,2009,120,125,01/10/2014
+Small Business, Oyo State , Notepad , Low ,2844,250,300,01/02/2014
+Channel Partners, Imo State , Notepad , Low ,1916,250,12,01/04/2014
+Enterprise, Osun State , Notepad , Low ,1570,250,125,01/06/2014
+Small Business, Imo State , Notepad , Low ,1874,250,300,01/08/2014
+Government, Ondo State , Notepad , Low ,1642,250,350,01/08/2014
+Midmarket, Osun State , Notepad , Low ,1945,250,15,01/10/2013
+Government, Lagos State , A4 Paper , Low ,831,3,20,01/05/2014
+Government, Ondo State , Biro , Low ,1760,10,7,01/09/2013
+Government, Lagos State , Markers , Low ,3850.5,120,20,01/04/2014
+Channel Partners, Enugu state, Notepad , Low ,2479,250,12,01/01/2014
+Midmarket, Ondo State , Pencil , Low ,2031,5,15,01/10/2014
+Midmarket, Imo State , Biro , Low ,2031,10,15,01/10/2014
+Midmarket, Ogun State , Biro , Low ,2261,10,15,01/12/2013
+Government, Enugu state, Markers , Low ,736,120,20,01/09/2013
+Government, Imo State , A4 Paper , Low ,2851,3,7,01/10/2013
+Small Business, Osun State , A4 Paper , Low ,2021,3,300,01/10/2014
+Government, Enugu state, A4 Paper , Low ,274,3,350,01/12/2014
+Midmarket, Lagos State , Pencil , Low ,1967,5,15,01/03/2014
+Small Business, Imo State , Pencil , Low ,1859,5,300,01/08/2014
+Government, Enugu state, Pencil , Low ,2851,5,7,01/10/2013
+Small Business, Osun State , Pencil , Low ,2021,5,300,01/10/2014
+Enterprise, Enugu state, Pencil , Low ,1138,5,125,01/12/2014
+Government, Lagos State , Biro , Low ,4251,10,7,01/01/2014
+Enterprise, Osun State , Biro , Low ,795,10,125,01/03/2014
+Small Business, Enugu state, Biro , Low ,1414.5,10,300,01/04/2014
+Small Business, Oyo State , Biro , Low ,2918,10,300,01/05/2014
+Government, Imo State , Biro , Low ,3450,10,350,01/07/2014
+Enterprise, Ogun State , Biro , Low ,2988,10,125,01/07/2014
+Midmarket, Imo State , Biro , Low ,218,10,15,01/09/2014
+Government, Lagos State , Biro , Low ,2074,10,20,01/09/2014
+Government, Oyo State , Biro , Low ,1056,10,20,01/09/2014
+Midmarket, Imo State , Biro , Low ,671,10,15,01/10/2013
+Midmarket, Ondo State , Biro , Low ,1514,10,15,01/10/2013
+Government, Oyo State , Biro , Low ,274,10,350,01/12/2014
+Enterprise, Enugu state, Biro , Low ,1138,10,125,01/12/2014
+Channel Partners, Oyo State , Markers , Low ,1465,120,12,01/03/2014
+Government, Imo State , Markers , Low ,2646,120,20,01/09/2013
+Government, Enugu state, Markers , Low ,2177,120,350,01/10/2014
+Channel Partners, Ogun State , Notepad , Low ,866,250,12,01/05/2014
+Government, Enugu state, Notepad , Low ,349,250,350,01/09/2013
+Government, Imo State , Notepad , Low ,2177,250,350,01/10/2014
+Midmarket, Ondo State , Notepad , Low ,1514,250,15,01/10/2013
+Government, Ondo State , Stapler , Low ,1865,260,350,01/02/2014
+Enterprise, Enugu state, Stapler , Low ,1074,260,125,01/04/2014
+Government, Osun State , Stapler , Low ,1907,260,350,01/09/2014
+Midmarket, Imo State , Stapler , Low ,671,260,15,01/10/2013
+Government, Enugu state, Stapler , Low ,1778,260,350,01/12/2013
+Government, Osun State , Pencil , Medium ,1159,5,7,01/10/2013
+Government, Enugu state, Biro , Medium ,1372,10,7,01/01/2014
+Government, Imo State , Biro , Medium ,2349,10,7,01/09/2013
+Government, Enugu state, Biro , Medium ,2689,10,7,01/10/2014
+Channel Partners, Lagos State , Biro , Medium ,2431,10,12,01/12/2014
+Channel Partners, Lagos State , Markers , Medium ,2431,120,12,01/12/2014
+Government, Enugu state, Notepad , Medium ,2689,250,7,01/10/2014
+Government, Ondo State , Stapler , Medium ,1683,260,7,01/07/2014
+Channel Partners, Imo State , Stapler , Medium ,1123,260,12,01/08/2014
+Government, Osun State , Stapler , Medium ,1159,260,7,01/10/2013
+Channel Partners, Imo State , A4 Paper , Medium ,1865,3,12,01/02/2014
+Channel Partners, Osun State , A4 Paper , Medium ,1116,3,12,01/02/2014
+Government, Enugu state, A4 Paper , Medium ,1563,3,20,01/05/2014
+Small Business, Imo State , A4 Paper , Medium ,991,3,300,01/06/2014
+Government, Imo State , A4 Paper , Medium ,1016,3,7,01/11/2013
+Midmarket, Enugu state, A4 Paper , Medium ,2791,3,15,01/11/2014
+Government, Oyo State , A4 Paper , Medium ,570,3,7,01/12/2014
+Government, Ogun State , A4 Paper , Medium ,2487,3,7,01/12/2014
+Government, Enugu state, Pencil , Medium ,1384.5,5,350,01/01/2014
+Enterprise, Imo State , Pencil , Medium ,3627,5,125,01/07/2014
+Government, Ondo State , Pencil , Medium ,720,5,350,01/09/2013
+Channel Partners, Osun State , Pencil , Medium ,2342,5,12,01/11/2014
+Small Business, Enugu state, Pencil , Medium ,1100,5,300,01/12/2013
+Government, Imo State , Biro , Medium ,1303,10,20,01/02/2014
+Enterprise, Oyo State , Biro , Medium ,2992,10,125,01/03/2014
+Enterprise, Enugu state, Biro , Medium ,2385,10,125,01/03/2014
+Small Business, Ondo State , Biro , Medium ,1607,10,300,01/04/2014
+Government, Oyo State , Biro , Medium ,2327,10,7,01/05/2014
+Small Business, Enugu state, Biro , Medium ,991,10,300,01/06/2014
+Government, Oyo State , Biro , Medium ,602,10,350,01/06/2014
+Midmarket, Imo State , Biro , Medium ,2620,10,15,01/09/2014
+Government, Lagos State , Biro , Medium ,1228,10,350,01/10/2013
+Government, Lagos State , Biro , Medium ,1389,10,20,01/10/2013
+Enterprise, Enugu state, Biro , Medium ,861,10,125,01/10/2014
+Enterprise, Imo State , Biro , Medium ,704,10,125,01/10/2013
+Government, Lagos State , Biro , Medium ,1802,10,20,01/12/2013
+Government, Enugu state, Biro , Medium ,2663,10,20,01/12/2014
+Government, Ogun State , Biro , Medium ,2136,10,7,01/12/2013
+Midmarket, Imo State , Biro , Medium ,2116,10,15,01/12/2013
+Midmarket, Enugu state, Markers , Medium ,555,120,15,01/01/2014
+Midmarket, Imo State , Markers , Medium ,2861,120,15,01/01/2014
+Enterprise, Enugu state, Markers , Medium ,807,120,125,01/02/2014
+Government, Imo State , Markers , Medium ,602,120,350,01/06/2014
+Government, Oyo State , Markers , Medium ,2832,120,20,01/08/2014
+Government, Ogun State , Markers , Medium ,1579,120,20,01/08/2014
+Enterprise, Oyo State , Markers , Medium ,861,120,125,01/10/2014
+Enterprise, Imo State , Markers , Medium ,704,120,125,01/10/2013
+Government, Ogun State , Markers , Medium ,1033,120,20,01/12/2013
+Small Business, Osun State , Markers , Medium ,1250,120,300,01/12/2014
+Government, Enugu state, Notepad , Medium ,1389,250,20,01/10/2013
+Government, Oyo State , Notepad , Medium ,1265,250,20,01/11/2013
+Government, Osun State , Notepad , Medium ,2297,250,20,01/11/2013
+Government, Oyo State , Notepad , Medium ,2663,250,20,01/12/2014
+Government, Oyo State , Notepad , Medium ,570,250,7,01/12/2014
+Government, Enugu state, Notepad , Medium ,2487,250,7,01/12/2014
+Government, Osun State , Stapler , Medium ,1350,260,350,01/02/2014
+Government, Enugu state, Stapler , Medium ,552,260,350,01/08/2014
+Government, Lagos State , Stapler , Medium ,1228,260,350,01/10/2013
+Small Business, Osun State , Stapler , Medium ,1250,260,300,01/12/2014
+Midmarket, Ogun State , Biro , Medium ,3801,10,15,01/04/2014
+Government, Imo State , A4 Paper , Medium ,1117.5,3,20,01/01/2014
+Midmarket, Lagos State , A4 Paper , Medium ,2844,3,15,01/06/2014
+Channel Partners, Ondo State , A4 Paper , Medium ,562,3,12,01/09/2014
+Channel Partners, Enugu state, A4 Paper , Medium ,2299,3,12,01/10/2013
+Midmarket, Enugu state, A4 Paper , Medium ,2030,3,15,01/11/2014
+Government, Oyo State , A4 Paper , Medium ,263,3,7,01/11/2013
+Enterprise, Enugu state, A4 Paper , Medium ,887,3,125,01/12/2013
+Government, Ondo State , Pencil , Medium ,980,5,350,01/04/2014
+Government, Enugu state, Pencil , Medium ,1460,5,350,01/05/2014
+Government, Enugu state, Pencil , Medium ,1403,5,7,01/10/2013
+Channel Partners, Oyo State , Pencil , Medium ,2723,5,12,01/11/2014
+Government, Imo State , Biro , Medium ,1496,10,350,01/06/2014
+Channel Partners, Lagos State , Biro , Medium ,2299,10,12,01/10/2013
+Government, Oyo State , Biro , Medium ,727,10,350,01/10/2013
+Enterprise, Enugu state, Markers , Medium ,952,120,125,01/02/2014
+Enterprise, Imo State , Markers , Medium ,2755,120,125,01/02/2014
+Midmarket, Imo State , Markers , Medium ,1530,120,15,01/05/2014
+Government, Ogun State , Markers , Medium ,1496,120,350,01/06/2014
+Government, Enugu state, Markers , Medium ,1498,120,7,01/06/2014
+Small Business, Ogun State , Markers , Medium ,1221,120,300,01/10/2013
+Government, Enugu state, Markers , Medium ,2076,120,350,01/10/2013
+Midmarket, Lagos State , Notepad , Medium ,2844,250,15,01/06/2014
+Government, Imo State , Notepad , Medium ,1498,250,7,01/06/2014
+Small Business, Enugu state, Notepad , Medium ,1221,250,300,01/10/2013
+Government, Ondo State , Notepad , Medium ,1123,250,20,01/11/2013
+Small Business, Imo State , Notepad , Medium ,2436,250,300,01/12/2013
+Enterprise, Ogun State , Stapler , Medium ,1987.5,260,125,01/01/2014
+Government, Enugu state, Stapler , Medium ,1679,260,350,01/09/2014
+Government, Oyo State , Stapler , Medium ,727,260,350,01/10/2013
+Government, Enugu state, Stapler , Medium ,1403,260,7,01/10/2013
+Government, Ogun State , Stapler , Medium ,2076,260,350,01/10/2013
+Government, Imo State , Pencil , Medium ,1757,5,20,01/10/2013
+Midmarket, Oyo State , Biro , Medium ,2198,10,15,01/08/2014
+Midmarket, Enugu state, Biro , Medium ,1743,10,15,01/08/2014
+Midmarket, Oyo State , Biro , Medium ,1153,10,15,01/10/2014
+Government, Imo State , Biro , Medium ,1757,10,20,01/10/2013
+Government, Osun State , Markers , Medium ,1001,120,20,01/08/2014
+Government, Enugu state, Markers , Medium ,1333,120,7,01/11/2014
+Midmarket, Oyo State , Notepad , Medium ,1153,250,15,01/10/2014
+Channel Partners, Enugu state, A4 Paper , Medium ,727,3,12,01/02/2014
+Channel Partners, Enugu state, A4 Paper , Medium ,1884,3,12,01/08/2014
+Government, Imo State , A4 Paper , Medium ,1834,3,20,01/09/2013
+Channel Partners, Enugu state, Pencil , Medium ,2340,5,12,01/01/2014
+Channel Partners, Imo State , Pencil , Medium ,2342,5,12,01/11/2014
+Government, Enugu state, Biro , Medium ,1031,10,7,01/09/2013
+Midmarket, Imo State , Markers , Medium ,1262,120,15,01/05/2014
+Government, Enugu state, Markers , Medium ,1135,120,7,01/06/2014
+Government, Oyo State , Markers , Medium ,547,120,7,01/11/2014
+Government, Lagos State , Markers , Medium ,1582,120,7,01/12/2014
+Channel Partners, Ogun State , Notepad , Medium ,1738.5,250,12,01/04/2014
+Channel Partners, Imo State , Notepad , Medium ,2215,250,12,01/09/2013
+Government, Enugu state, Notepad , Medium ,1582,250,7,01/12/2014
+Government, Imo State , Stapler , Medium ,1135,260,7,01/06/2014
+Government, Enugu state, A4 Paper , Medium ,1761,3,350,01/03/2014
+Small Business, Ogun State , A4 Paper , Medium ,448,3,300,01/06/2014
+Small Business, Enugu state, A4 Paper , Medium ,2181,3,300,01/10/2014
+Government, Imo State , Pencil , Medium ,1976,5,20,01/10/2014
+Small Business, Ogun State , Pencil , Medium ,2181,5,300,01/10/2014
+Enterprise, Enugu state, Pencil , Medium ,2500,5,125,01/11/2013
+Small Business, Imo State , Biro , Medium ,1702,10,300,01/05/2014
+Small Business, Ogun State , Biro , Medium ,448,10,300,01/06/2014
+Enterprise, Osun State , Biro , Medium ,3513,10,125,01/07/2014
+Midmarket, Ogun State , Biro , Medium ,2101,10,15,01/08/2014
+Midmarket, Enugu state, Biro , Medium ,2931,10,15,01/09/2013
+Government, Ogun State , Biro , Medium ,1535,10,20,01/09/2014
+Small Business, Enugu state, Biro , Medium ,1123,10,300,01/09/2013
+Small Business, Imo State , Biro , Medium ,1404,10,300,01/11/2013
+Channel Partners, Ondo State , Biro , Medium ,2763,10,12,01/11/2013
+Government, Imo State , Biro , Medium ,2125,10,7,01/12/2013
+Small Business, Imo State , Markers , Medium ,1659,120,300,01/07/2014
+Government, Ondo State , Markers , Medium ,609,120,20,01/08/2014
+Enterprise, Osun State , Markers , Medium ,2087,120,125,01/09/2014
+Government, Enugu state, Markers , Medium ,1976,120,20,01/10/2014
+Government, Oyo State , Markers , Medium ,1421,120,20,01/12/2013
+Small Business, Imo State , Markers , Medium ,1372,120,300,01/12/2014
+Government, Osun State , Markers , Medium ,588,120,20,01/12/2013
+Channel Partners, Imo State , Notepad , Medium ,3244.5,250,12,01/01/2014
+Small Business, Imo State , Notepad , Medium ,959,250,300,01/02/2014
+Small Business, Ondo State , Notepad , Medium ,2747,250,300,01/02/2014
+Enterprise, Lagos State , Stapler , Medium ,1645,260,125,01/05/2014
+Government, Ogun State , Stapler , Medium ,2876,260,350,01/09/2014
+Enterprise, Osun State , Stapler , Medium ,994,260,125,01/09/2013
+Government, Imo State , Stapler , Medium ,1118,260,20,01/11/2014
+Small Business, Oyo State , Stapler , Medium ,1372,260,300,01/12/2014
+Government, Imo State , Pencil , Medium ,488,5,7,01/02/2014
+Government, Oyo State , Pencil , Medium ,1282,5,20,01/06/2014
+Government, Imo State , Biro , Medium ,257,10,7,01/05/2014
+Government, Enugu state, Stapler , Medium ,1282,260,20,01/06/2014
+Enterprise, Ondo State , A4 Paper , Medium ,1540,3,125,01/08/2014
+Midmarket, Ogun State , A4 Paper , Medium ,490,3,15,01/11/2014
+Government, Ondo State , A4 Paper , Medium ,1362,3,350,01/12/2014
+Midmarket, Ogun State , Pencil , Medium ,2501,5,15,01/03/2014
+Government, Lagos State , Pencil , Medium ,708,5,20,01/06/2014
+Government, Osun State , Pencil , Medium ,645,5,20,01/07/2014
+Small Business, Enugu state, Pencil , Medium ,1562,5,300,01/08/2014
+Small Business, Lagos State , Pencil , Medium ,1283,5,300,01/09/2013
+Midmarket, Imo State , Pencil , Medium ,711,5,15,01/12/2014
+Enterprise, Enugu state, Biro , Medium ,1114,10,125,01/03/2014
+Government, Osun State , Biro , Medium ,1259,10,7,01/04/2014
+Government, Imo State , Biro , Medium ,1095,10,7,01/05/2014
+Government, Enugu state, Biro , Medium ,1366,10,20,01/06/2014
+Small Business, Ondo State , Biro , Medium ,2460,10,300,01/06/2014
+Government, Enugu state, Biro , Medium ,678,10,7,01/08/2014
+Government, Osun State , Biro , Medium ,1598,10,7,01/08/2014
+Government, Enugu state, Biro , Medium ,2409,10,7,01/09/2013
+Government, Osun State , Biro , Medium ,1934,10,20,01/09/2014
+Government, Imo State , Biro , Medium ,2993,10,20,01/09/2014
+Government, Enugu state, Biro , Medium ,2146,10,350,01/11/2013
+Government, Imo State , Biro , Medium ,1946,10,7,01/12/2013
+Government, Ondo State , Biro , Medium ,1362,10,350,01/12/2014
+Channel Partners, Enugu state, Markers , Medium ,598,120,12,01/03/2014
+Government, Oyo State , Markers , Medium ,2907,120,7,01/06/2014
+Government, Osun State , Markers , Medium ,2338,120,7,01/06/2014
+Small Business, Ogun State , Markers , Medium ,386,120,300,01/11/2013
+Small Business, Ondo State , Markers , Medium ,635,120,300,01/12/2014
+Government, Ogun State , Notepad , Medium ,574.5,250,350,01/04/2014
+Government, Osun State , Notepad , Medium ,2338,250,7,01/06/2014
+Government, Enugu state, Notepad , Medium ,381,250,350,01/08/2014
+Government, Imo State , Notepad , Medium ,422,250,350,01/08/2014
+Small Business, Lagos State , Notepad , Medium ,2134,250,300,01/09/2014
+Small Business, Enugu state, Notepad , Medium ,808,250,300,01/12/2013
+Government, Imo State , Stapler , Medium ,708,260,20,01/06/2014
+Government, Oyo State , Stapler , Medium ,2907,260,7,01/06/2014
+Government, Enugu state, Stapler , Medium ,1366,260,20,01/06/2014
+Small Business, Imo State , Stapler , Medium ,2460,260,300,01/06/2014
+Government, Enugu state, Stapler , Medium ,1520,260,20,01/11/2014
+Midmarket, Osun State , Stapler , Medium ,711,260,15,01/12/2014
+Channel Partners, Ondo State , Stapler , Medium ,1375,260,12,01/12/2013
+Small Business, Enugu state, Stapler , Medium ,635,260,300,01/12/2014
+Government, Oyo State , Notepad , Medium ,436.5,250,20,01/07/2014
+Small Business, Imo State , A4 Paper , Medium ,1094,3,300,01/06/2014
+Channel Partners, Ondo State , A4 Paper , Medium ,367,3,12,01/10/2013
+Small Business, Imo State , Pencil , Medium ,3802.5,5,300,01/04/2014
+Government, Enugu state, Pencil , Medium ,1666,5,350,01/05/2014
+Small Business, Ogun State , Pencil , Medium ,322,5,300,01/09/2013
+Channel Partners, Lagos State , Pencil , Medium ,2321,5,12,01/11/2014
+Enterprise, Imo State , Pencil , Medium ,1857,5,125,01/11/2013
+Government, Lagos State , Pencil , Medium ,1611,5,7,01/12/2013
+Enterprise, Enugu state, Pencil , Medium ,2797,5,125,01/12/2014
+Small Business, Osun State , Pencil , Medium ,334,5,300,01/12/2013
+Small Business, Enugu state, Biro , Medium ,2565,10,300,01/01/2014
+Government, Imo State , Biro , Medium ,2417,10,350,01/01/2014
+Midmarket, Oyo State , Biro , Medium ,3675,10,15,01/04/2014
+Small Business, Lagos State , Biro , Medium ,1094,10,300,01/06/2014
+Midmarket, Imo State , Biro , Medium ,1227,10,15,01/10/2014
+Channel Partners, Enugu state, Biro , Medium ,367,10,12,01/10/2013
+Small Business, Enugu state, Biro , Medium ,1324,10,300,01/11/2014
+Channel Partners, Imo State , Biro , Medium ,1775,10,12,01/11/2013
+Enterprise, Oyo State , Biro , Medium ,2797,10,125,01/12/2014
+Midmarket, Enugu state, Markers , Medium ,245,120,15,01/05/2014
+Small Business, Imo State , Markers , Medium ,3793.5,120,300,01/07/2014
+Government, Osun State , Markers , Medium ,1307,120,350,01/07/2014
+Enterprise, Enugu state, Markers , Medium ,567,120,125,01/09/2014
+Enterprise, Imo State , Markers , Medium ,2110,120,125,01/09/2014
+Government, Lagos State , Markers , Medium ,1269,120,350,01/10/2014
+Channel Partners, Imo State , Notepad , Medium ,1956,250,12,01/01/2014
+Small Business, Osun State , Notepad , Medium ,2659,250,300,01/02/2014
+Government, Oyo State , Notepad , Medium ,1351.5,250,350,01/04/2014
+Channel Partners, Imo State , Notepad , Medium ,880,250,12,01/05/2014
+Small Business, Oyo State , Notepad , Medium ,1867,250,300,01/09/2014
+Channel Partners, Enugu state, Notepad , Medium ,2234,250,12,01/09/2013
+Midmarket, Ogun State , Notepad , Medium ,1227,250,15,01/10/2014
+Enterprise, Ondo State , Notepad , Medium ,877,250,125,01/11/2014
+Government, Imo State , Stapler , Medium ,2071,260,350,01/09/2014
+Government, Lagos State , Stapler , Medium ,1269,260,350,01/10/2014
+Midmarket, Enugu state, Stapler , Medium ,970,260,15,01/11/2013
+Government, Ondo State , Stapler , Medium ,1694,260,20,01/11/2014
+Government, Imo State , A4 Paper , Medium ,663,3,20,01/05/2014
+Government, Imo State , A4 Paper , Medium ,819,3,7,01/07/2014
+Channel Partners, Enugu state, A4 Paper , Medium ,1580,3,12,01/09/2014
+Government, Imo State , A4 Paper , Medium ,521,3,7,01/12/2014
+Government, Enugu state, Biro , Medium ,973,10,20,01/03/2014
+Government, Ondo State , Biro , Medium ,1038,10,20,01/06/2014
+Government, Osun State , Biro , Medium ,360,10,7,01/10/2014
+Channel Partners, Ogun State , Markers , Medium ,1967,120,12,01/03/2014
+Midmarket, Enugu state, Markers , Medium ,2628,120,15,01/04/2014
+Government, Imo State , Notepad , Medium ,360,250,7,01/10/2014
+Government, Ogun State , Notepad , Medium ,2682,250,20,01/11/2013
+Government, Enugu state, Notepad , Medium ,521,250,7,01/12/2014
+Government, Imo State , Stapler , Medium ,1038,260,20,01/06/2014
+Midmarket, Lagos State , Stapler , Medium ,1630.5,260,15,01/07/2014
+Channel Partners, Imo State , Stapler , Medium ,306,260,12,01/12/2013
+Channel Partners, Oyo State , A4 Paper , High ,386,3,12,01/10/2013
+Government, Enugu state, Pencil , High ,2328,5,7,01/09/2014
+Channel Partners, Oyo State , Biro , High ,386,10,12,01/10/2013
+Enterprise, Imo State , A4 Paper , High ,3445.5,3,125,01/04/2014
+Enterprise, Enugu state, A4 Paper , High ,1482,3,125,01/12/2013
+Government, Oyo State , Pencil , High ,2313,5,350,01/05/2014
+Enterprise, Imo State , Pencil , High ,1804,5,125,01/11/2013
+Midmarket, Ogun State , Pencil , High ,2072,5,15,01/12/2014
+Government, Enugu state, Biro , High ,1954,10,20,01/03/2014
+Small Business, Imo State , Biro , High ,591,10,300,01/05/2014
+Midmarket, Enugu state, Biro , High ,2167,10,15,01/10/2013
+Government, Osun State , Biro , High ,241,10,20,01/10/2014
+Midmarket, Osun State , Markers , High ,681,120,15,01/01/2014
+Midmarket, Imo State , Markers , High ,510,120,15,01/04/2014
+Midmarket, Oyo State , Markers , High ,790,120,15,01/05/2014
+Government, Ogun State , Markers , High ,639,120,350,01/07/2014
+Enterprise, Imo State , Markers , High ,1596,120,125,01/09/2014
+Small Business, Oyo State , Markers , High ,2294,120,300,01/10/2013
+Government, Osun State , Markers , High ,241,120,20,01/10/2014
+Government, Osun State , Markers , High ,2665,120,7,01/11/2014
+Enterprise, Lagos State , Markers , High ,1916,120,125,01/12/2013
+Small Business, Imo State , Markers , High ,853,120,300,01/12/2014
+Enterprise, Ondo State , Notepad , High ,341,250,125,01/05/2014
+Midmarket, Ondo State , Notepad , High ,641,250,15,01/07/2014
+Government, Enugu state, Notepad , High ,2807,250,350,01/08/2014
+Small Business, Ondo State , Notepad , High ,432,250,300,01/09/2014
+Small Business, Oyo State , Notepad , High ,2294,250,300,01/10/2013
+Midmarket, Imo State , Notepad , High ,2167,250,15,01/10/2013
+Enterprise, Lagos State , Notepad , High ,2529,250,125,01/11/2014
+Government, Osun State , Notepad , High ,1870,250,350,01/12/2013
+Enterprise, Imo State , Stapler , High ,579,260,125,01/01/2014
+Government, Enugu state, Stapler , High ,2240,260,350,01/02/2014
+Small Business, Oyo State , Stapler , High ,2993,260,300,01/03/2014
+Channel Partners, Lagos State , Stapler , High ,3520.5,260,12,01/04/2014
+Government, Enugu state, Stapler , High ,2039,260,20,01/05/2014
+Channel Partners, Osun State , Stapler , High ,2574,260,12,01/08/2014
+Government, Imo State , Stapler , High ,707,260,350,01/09/2014
+Midmarket, Ogun State , Stapler , High ,2072,260,15,01/12/2014
+Small Business, Imo State , Stapler , High ,853,260,300,01/12/2014
+Channel Partners, Enugu state, A4 Paper , High ,1198,3,12,01/10/2013
+Government, Ogun State , Biro , High ,2532,10,7,01/04/2014
+Channel Partners, Ogun State , Biro , High ,1198,10,12,01/10/2013
+Midmarket, Imo State , Markers , High ,384,120,15,01/01/2014
+Channel Partners, Osun State , Markers , High ,472,120,12,01/10/2014
+Government, Imo State , Notepad , High ,1579,250,7,01/03/2014
+Channel Partners, Ondo State , Notepad , High ,1005,250,12,01/09/2013
+Midmarket, Enugu state, Stapler , High ,3199.5,260,15,01/07/2014
+Channel Partners, Osun State , Stapler , High ,472,260,12,01/10/2014
+Channel Partners, Enugu state, A4 Paper , High ,1937,3,12,01/02/2014
+Government, Osun State , A4 Paper , High ,792,3,350,01/03/2014
+Small Business, Osun State , A4 Paper , High ,2811,3,300,01/07/2014
+Enterprise, Enugu state, A4 Paper , High ,2441,3,125,01/10/2014
+Midmarket, Lagos State , A4 Paper , High ,1560,3,15,01/11/2013
+Government, Imo State , A4 Paper , High ,2706,3,7,01/11/2013
+Government, Enugu state, Pencil , High ,766,5,350,01/01/2014
+Government, Osun State , Pencil , High ,2992,5,20,01/10/2013
+Midmarket, Enugu state, Pencil , High ,2157,5,15,01/12/2014
+Small Business, Enugu state, Biro , High ,873,10,300,01/01/2014
+Government, Ondo State , Biro , High ,1122,10,20,01/03/2014
+Government, Imo State , Biro , High ,2104.5,10,350,01/07/2014
+Channel Partners, Enugu state, Biro , High ,4026,10,12,01/07/2014
+Channel Partners, Ogun State , Biro , High ,2425.5,10,12,01/07/2014
+Government, Enugu state, Biro , High ,2394,10,20,01/08/2014
+Midmarket, Ondo State , Biro , High ,1984,10,15,01/08/2014
+Enterprise, Ogun State , Biro , High ,2441,10,125,01/10/2014
+Government, Enugu state, Biro , High ,2992,10,20,01/10/2013
+Small Business, Imo State , Biro , High ,1366,10,300,01/11/2014
+Government, Enugu state, Markers , High ,2805,120,20,01/09/2013
+Midmarket, Ondo State , Markers , High ,655,120,15,01/09/2013
+Government, Imo State , Markers , High ,344,120,350,01/10/2013
+Government, Lagos State , Markers , High ,1808,120,7,01/11/2014
+Channel Partners, Ogun State , Notepad , High ,1734,250,12,01/01/2014
+Enterprise, Ondo State , Notepad , High ,554,250,125,01/01/2014
+Government, Enugu state, Notepad , High ,2935,250,20,01/11/2013
+Enterprise, Osun State , Stapler , High ,3165,260,125,01/01/2014
+Government, Enugu state, Stapler , High ,2629,260,20,01/01/2014
+Enterprise, Enugu state, Stapler , High ,1433,260,125,01/05/2014
+Enterprise, Ondo State , Stapler , High ,947,260,125,01/09/2013
+Government, Enugu state, Stapler , High ,344,260,350,01/10/2013
+Midmarket, Ondo State , Stapler , High ,2157,260,15,01/12/2014
+Government, Oyo State , Biro , High ,380,10,7,01/09/2013
+Government, Enugu state, A4 Paper , High ,886,3,350,01/06/2014
+Enterprise, Lagos State , A4 Paper , High ,2416,3,125,01/09/2013
+Enterprise, Ondo State , A4 Paper , High ,2156,3,125,01/10/2014
+Midmarket, Lagos State , A4 Paper , High ,2689,3,15,01/11/2014
+Midmarket, Enugu state, Pencil , High ,677,5,15,01/03/2014
+Small Business, Imo State , Pencil , High ,1773,5,300,01/04/2014
+Government, Ondo State , Pencil , High ,2420,5,7,01/09/2014
+Government, Enugu state, Pencil , High ,2734,5,7,01/10/2014
+Government, Ondo State , Pencil , High ,1715,5,20,01/10/2013
+Small Business, Imo State , Pencil , High ,1186,5,300,01/12/2013
+Small Business, Oyo State , Biro , High ,3495,10,300,01/01/2014
+Government, Enugu state, Biro , High ,886,10,350,01/06/2014
+Enterprise, Ondo State , Biro , High ,2156,10,125,01/10/2014
+Government, Imo State , Biro , High ,905,10,20,01/10/2014
+Government, Enugu state, Biro , High ,1715,10,20,01/10/2013
+Government, Ogun State , Biro , High ,1594,10,350,01/11/2014
+Small Business, Osun State , Biro , High ,1359,10,300,01/11/2014
+Small Business, Imo State , Biro , High ,2150,10,300,01/11/2014
+Government, Ondo State , Biro , High ,1197,10,350,01/11/2014
+Midmarket, Ondo State , Biro , High ,380,10,15,01/12/2013
+Government, Ondo State , Biro , High ,1233,10,20,01/12/2014
+Government, Enugu state, Markers , High ,1395,120,350,01/07/2014
+Government, Oyo State , Markers , High ,986,120,350,01/10/2014
+Government, Imo State , Markers , High ,905,120,20,01/10/2014
+Channel Partners, Enugu state, Notepad , High ,2109,250,12,01/05/2014
+Midmarket, Ogun State , Notepad , High ,3874.5,250,15,01/07/2014
+Government, Lagos State , Notepad , High ,623,250,350,01/09/2013
+Government, Oyo State , Notepad , High ,986,250,350,01/10/2014
+Enterprise, Imo State , Notepad , High ,2387,250,125,01/11/2014
+Government, Ondo State , Notepad , High ,1233,250,20,01/12/2014
+Government, Oyo State , Stapler , High ,270,260,350,01/02/2014
+Government, Enugu state, Stapler , High ,3421.5,260,7,01/07/2014
+Government, Lagos State , Stapler , High ,2734,260,7,01/10/2014
+Midmarket, Oyo State , Stapler , High ,2548,260,15,01/11/2013
+Government, Enugu state, A4 Paper , High ,2521.5,3,20,01/01/2014
+Channel Partners, Ondo State , Pencil , High ,2661,5,12,01/05/2014
+Government, Enugu state, Biro , High ,1531,10,20,01/12/2014
+Government, Imo State , Notepad , High ,1491,250,7,01/03/2014
+Government, Imo State , Notepad , High ,1531,250,20,01/12/2014
+Channel Partners, Lagos State , Stapler , High ,2761,260,12,01/09/2013
+Midmarket, Imo State , A4 Paper , High ,2567,3,15,01/06/2014
+Midmarket, Oyo State , Notepad , High ,2567,250,15,01/06/2014
+Government, Lagos State , A4 Paper , High ,923,3,350,01/03/2014
+Government, Enugu state, A4 Paper , High ,1790,3,350,01/03/2014
+Government, Osun State , A4 Paper , High ,442,3,20,01/09/2013
+Government, Oyo State , Pencil , High ,982.5,5,350,01/01/2014
+Government, Enugu state, Pencil , High ,1298,5,7,01/02/2014
+Channel Partners, Ondo State , Pencil , High ,604,5,12,01/06/2014
+Government, Imo State , Pencil , High ,2255,5,20,01/07/2014
+Government, Lagos State , Pencil , High ,1249,5,20,01/10/2014
+Government, Oyo State , Biro , High ,1438.5,10,7,01/01/2014
+Small Business, Imo State , Biro , High ,807,10,300,01/01/2014
+Government, Enugu state, Biro , High ,2641,10,20,01/02/2014
+Government, Imo State , Biro , High ,2708,10,20,01/02/2014
+Government, Lagos State , Biro , High ,2632,10,350,01/06/2014
+Enterprise, Enugu state, Biro , High ,1583,10,125,01/06/2014
+Channel Partners, Enugu state, Biro , High ,571,10,12,01/07/2014
+Government, Imo State , Biro , High ,2696,10,7,01/08/2014
+Midmarket, Enugu state, Biro , High ,1565,10,15,01/10/2014
+Government, Imo State , Biro , High ,1249,10,20,01/10/2014
+Government, Osun State , Biro , High ,357,10,350,01/11/2014
+Channel Partners, Osun State , Biro , High ,1013,10,12,01/12/2014
+Midmarket, Ogun State , Markers , High ,3997.5,120,15,01/01/2014
+Government, Enugu state, Markers , High ,2632,120,350,01/06/2014
+Government, Ogun State , Markers , High ,1190,120,7,01/06/2014
+Channel Partners, Ondo State , Markers , High ,604,120,12,01/06/2014
+Midmarket, Osun State , Markers , High ,660,120,15,01/09/2013
+Channel Partners, Enugu state, Markers , High ,410,120,12,01/10/2014
+Small Business, Imo State , Markers , High ,2605,120,300,01/11/2013
+Channel Partners, Osun State , Markers , High ,1013,120,12,01/12/2014
+Enterprise, Enugu state, Notepad , High ,1583,250,125,01/06/2014
+Midmarket, Imo State , Notepad , High ,1565,250,15,01/10/2014
+Enterprise, Lagos State , Stapler , High ,1659,260,125,01/01/2014
+Government, Imo State , Stapler , High ,1190,260,7,01/06/2014
+Channel Partners, Ondo State , Stapler , High ,410,260,12,01/10/2014
+Channel Partners, Enugu state, Stapler , High ,1770,260,12,01/12/2013
+Government, Ondo State , A4 Paper , High ,2579,3,20,01/04/2014
+Government, Oyo State , A4 Paper , High ,1743,3,20,01/05/2014
+Government, Enugu state, A4 Paper , High ,2996,3,7,01/10/2013
+Government, Imo State , A4 Paper , High ,280,3,7,01/12/2014
+Government, Enugu state, Pencil , High ,293,5,7,01/02/2014
+Government, Enugu state, Pencil , High ,2996,5,7,01/10/2013
+Midmarket, Osun State , Biro , High ,278,10,15,01/02/2014
+Government, Enugu state, Biro , High ,2428,10,20,01/03/2014
+Midmarket, Oyo State , Biro , High ,1767,10,15,01/09/2014
+Channel Partners, Imo State , Biro , High ,1393,10,12,01/10/2014
+Government, Osun State , Notepad , High ,280,250,7,01/12/2014
+Channel Partners, Enugu state, Stapler , High ,1393,260,12,01/10/2014
+Channel Partners, Imo State , Stapler , High ,2015,260,12,01/12/2013
+Small Business, Enugu state, A4 Paper , High ,801,3,300,01/07/2014
+Enterprise, Ogun State , A4 Paper , High ,1023,3,125,01/09/2013
+Small Business, Imo State , A4 Paper , High ,1496,3,300,01/10/2014
+Small Business, Oyo State , A4 Paper , High ,1010,3,300,01/10/2014
+Midmarket, Enugu state, A4 Paper , High ,1513,3,15,01/11/2014
+Midmarket, Lagos State , A4 Paper , High ,2300,3,15,01/12/2014
+Enterprise, Ondo State , A4 Paper , High ,2821,3,125,01/12/2013
+Government, Enugu state, Pencil , High ,2227.5,5,350,01/01/2014
+Government, Imo State , Pencil , High ,1199,5,350,01/04/2014
+Government, Enugu state, Pencil , High ,200,5,350,01/05/2014
+Government, Imo State , Pencil , High ,388,5,7,01/09/2014
+Government, Ondo State , Pencil , High ,1727,5,7,01/10/2013
+Midmarket, Enugu state, Pencil , High ,2300,5,15,01/12/2014
+Government, Ondo State , Biro , High ,260,10,20,01/02/2014
+Midmarket, Enugu state, Biro , High ,2470,10,15,01/09/2013
+Midmarket, Enugu state, Biro , High ,1743,10,15,01/10/2013
+Channel Partners, Oyo State , Biro , High ,2914,10,12,01/10/2014
+Government, Imo State , Biro , High ,1731,10,7,01/10/2014
+Government, Enugu state, Biro , High ,700,10,350,01/11/2014
+Channel Partners, Lagos State , Biro , High ,2222,10,12,01/11/2013
+Government, Enugu state, Biro , High ,1177,10,350,01/11/2014
+Government, Imo State , Biro , High ,1922,10,350,01/11/2013
+Enterprise, Enugu state, Markers , High ,1575,120,125,01/02/2014
+Government, Oyo State , Markers , High ,606,120,20,01/04/2014
+Small Business, Oyo State , Markers , High ,2460,120,300,01/07/2014
+Small Business, Imo State , Markers , High ,269,120,300,01/10/2013
+Small Business, Imo State , Markers , High ,2536,120,300,01/11/2013
+Government, Ondo State , Notepad , High ,2903,250,7,01/03/2014
+Small Business, Imo State , Notepad , High ,2541,250,300,01/08/2014
+Small Business, Lagos State , Notepad , High ,269,250,300,01/10/2013
+Small Business, Lagos State , Notepad , High ,1496,250,300,01/10/2014
+Small Business, Enugu state, Notepad , High ,1010,250,300,01/10/2014
+Government, Ogun State , Notepad , High ,1281,250,350,01/12/2013
+Small Business, Enugu state, Stapler , High ,888,260,300,01/03/2014
+Enterprise, Oyo State , Stapler , High ,2844,260,125,01/05/2014
+Channel Partners, Enugu state, Stapler , High ,2475,260,12,01/08/2014
+Midmarket, Lagos State , Stapler , High ,1743,260,15,01/10/2013
+Channel Partners, Imo State , Stapler , High ,2914,260,12,01/10/2014
+Government, Ogun State , Stapler , High ,1731,260,7,01/10/2014
+Government, Enugu state, Stapler , High ,1727,260,7,01/10/2013
+Midmarket, Ondo State , Stapler , High ,1870,260,15,01/11/2013
+Enterprise, Enugu state, A4 Paper , High ,1174,3,125,01/08/2014
+Enterprise, Osun State , A4 Paper , High ,2767,3,125,01/08/2014
+Enterprise, Enugu state, A4 Paper , High ,1085,3,125,01/10/2014
+Small Business, Enugu state, Pencil , High ,546,5,300,01/10/2014
+Government, Imo State , Biro , High ,1158,10,20,01/03/2014
+Midmarket, Lagos State , Biro , High ,1614,10,15,01/04/2014
+Government, Ondo State , Biro , High ,2535,10,7,01/04/2014
+Government, Ondo State , Biro , High ,2851,10,350,01/05/2014
+Midmarket, Enugu state, Biro , High ,2559,10,15,01/08/2014
+Government, Oyo State , Biro , High ,267,10,20,01/10/2013
+Enterprise, Enugu state, Biro , High ,1085,10,125,01/10/2014
+Midmarket, Osun State , Biro , High ,1175,10,15,01/10/2014
+Government, Enugu state, Biro , High ,2007,10,350,01/11/2013
+Government, Ondo State , Biro , High ,2151,10,350,01/11/2013
+Channel Partners, Oyo State , Biro , High ,914,10,12,01/12/2014
+Government, Enugu state, Biro , High ,293,10,20,01/12/2014
+Channel Partners, Ondo State , Markers , High ,500,120,12,01/03/2014
+Midmarket, Imo State , Markers , High ,2826,120,15,01/05/2014
+Enterprise, Imo State , Markers , High ,663,120,125,01/09/2014
+Small Business, Oyo State , Markers , High ,2574,120,300,01/11/2013
+Enterprise, Oyo State , Markers , High ,2438,120,125,01/12/2013
+Channel Partners, Oyo State , Markers , High ,914,120,12,01/12/2014
+Government, Lagos State , Notepad , High ,865.5,250,20,01/07/2014
+Midmarket, Enugu state, Notepad , High ,492,250,15,01/07/2014
+Government, Oyo State , Notepad , High ,267,250,20,01/10/2013
+Midmarket, Imo State , Notepad , High ,1175,250,15,01/10/2014
+Enterprise, Lagos State , Notepad , High ,2954,250,125,01/11/2013
+Enterprise, Enugu state, Notepad , High ,552,250,125,01/11/2014
+Government, Ogun State , Notepad , High ,293,250,20,01/12/2014
+Small Business, Imo State , Stapler , High ,2475,260,300,01/03/2014
+Small Business, Ondo State , Stapler , High ,546,260,300,01/10/2014
+Government, Ondo State , Pencil , High ,1368,5,7,01/02/2014
+Government, Imo State , Biro , High ,723,10,7,01/04/2014
+Channel Partners, Oyo State , Notepad , High ,1806,250,12,01/05/2014
